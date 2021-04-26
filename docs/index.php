@@ -1,0 +1,366 @@
+﻿<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+	<meta charset="utf-8">
+	<title>Купить браслет Шагомер SmartBand H5S</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=9">
+	<meta name="viewport" content="width=device-width">	
+	<!-- CSS -->
+	<link type="text/css" href="files/smartwatch_dz_1/css/style-1.css" rel="stylesheet">
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+
+<script src="http://js.salesup-crm.com/js/geo.js"></script>
+<script src="multilanding.js"></script>
+<script src="http://js.salesup-crm.com/channels/js/channels.js" defer></script>	
+</head>
+<body>
+	<!-- itg-calltracking -->
+			<!-- itg-calltracking -->
+	<div class="out">
+		<div class="top">
+			<div class="top_in">
+				<nav>
+					<ul class="js-nav">
+						<li>
+							<a href="#container9C45C2">Купить</a>
+						</li>
+						<li>
+							<a href="#charact" id="ancorAdvantages">Преимущества</a>
+						</li>
+						<li>
+							<a href="#faq">Характеристики</a>
+						</li>
+						<li>
+							<a href="#delivery">Доставка</a>
+						</li>
+					</ul>
+				</nav>
+				<div class="top__right">
+					<div class="top__phone">
+						<div class="nomenclature">
+							Браслет-шагомер: SmartBand H5S
+						</div>
+					</div>
+					<div class="top__after-phone">
+						<a href="#container9C45C2" class="callme">перезвоните мне</a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<header>
+			<span class="section" id="first"></span>
+			<div class="header_in">
+				<h2>Браслет-шагомер</h2>
+				<h1>SmartBand H5S</h1>
+				<div class="header__right">
+					<div class="form__out">
+						<div class="form">
+							<div class="caption">
+								<h3>только 2 дня</h3>
+								<h4>-50%</h4>
+							</div>
+							<div class="frm" id="form1">
+								<div class="form-price">
+									<span class="price_land_s1">2990</span> <span class="price_land_curr">руб.</span>
+								</div>
+								<div id="containerAFD0B0">
+									<form method="post" action="" class="orderformcdn">									
+										<input required="required" type="text" name="name" placeholder="Введите ваше имя">
+										<input class="input-phone" required="required" type="text" name="phone" placeholder="Введите ваш телефон">
+										<div class="errField"></div>	
+										<button class="button--yellow">Купить</button>
+												 <input name="comment" type="hidden" value="" />
+               <input class="product_id" name="product_id" type="hidden" value="4540" />  
+               <input name="result_url" type="hidden" value=""/> 
+               <input name="referrer" type="hidden" value="" />
+               <input name="order_url" type="hidden" value="" />
+               <input name="transaction_id" type="hidden" value="0" />
+               <input name="partner_id" type="hidden" value="0" /> 
+               <input name="link_id" type="hidden" value="0" />
+
+								</form>
+								</div>
+								<div class="form__bottom"></div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="hit">
+					<div class="hit-inner">
+						ТОП<br>
+						<span>продаж</span>
+					</div>
+				</div>
+				<div class="watch"></div>
+			</div>
+		</header>
+		<div class="scrollMenu">
+			<div class="top_in">
+				<div class="top">
+					<nav>
+						<ul class="js-nav">
+							<li>
+								<a href="#container9C45C2">Купить</a>
+							</li>
+							<li>
+								<a href="#delivery">Доставка</a>
+							</li>
+							<li>
+								<a href="#faq">Характеристики</a>
+							</li>
+							<li>
+								<a href="#charact" id="ancorAdvantages">Преимущества</a>
+							</li>
+						</ul>
+					</nav>
+				</div>
+			</div>
+		</div>
+		<div class="page">
+			<div class="features">
+				<div class="features_in">
+					<h2 class="title">Особенности наших браслет-шагомеров</h2>
+					<div class="features__item">
+						<div class="features__img"><span class="vertical-centered"></span> <img alt="features" src="files/smartwatch_dz_1/img/features_img1-1.png"></div>
+						<h3>Качество</h3>
+						<p>Отличное качество сборки, высококачественные материалы. Материал браслета из прочной резины.</p>
+					</div>
+					<div class="features__item">
+						<div class="features__img"><span class="vertical-centered"></span> <img alt="features" src="files/smartwatch_dz_1/img/features_img2-1.png"></div>
+						<h3>Стиль</h3>
+						<p>Браслет-шагомер смотрятся очень стильно и придадут вам особый статус.</p>
+					</div>
+					<div class="features__item">
+						<div class="features__img"><span class="vertical-centered"></span> <img alt="features" src="files/smartwatch_dz_1/img/features_img3-1.png"></div>
+						<h3>Функциональ-ность</h3>
+						<p>По сути, это маленькая и функциональная копия смартфона на вашей руке.</p>
+					</div>
+					<div class="features__item">
+						<div class="features__img"><span class="vertical-centered"></span> <img alt="features" src="files/smartwatch_dz_1/img/features_img4-1.png"></div>
+						<h3>Доступная цена</h3>
+						<p>Цена в несколько раз дешевле, чем стоимость аналогов.</p>
+					</div>
+				</div>
+			</div><span class="section" id="charact"></span>
+			<div class="charact">
+				<div class="charact_in">
+					<h2 class="title" id="ancorAdvantages">характеристики и преимущества</h2>
+					<div class="charact__left">
+						<img alt="watch" src="files/smartwatch_dz_1/img/charact_watch-1.png">
+						<div class="hit hit--charact">
+							<div class="hit-inner hit-inner--charact">
+								-50%
+							</div>
+						</div>
+					</div>
+					<div class="charact__right" id="ancorFooterForm">
+						<ul class="charact__items">
+							<li>Сенсорный дисплей. Анализ сна.</li>
+							<li>Синхронизация со смартфоном и компьютером.</li>
+							<li>3D шагомер. Температура окружающей среды.</li>
+							<li>Цвет: фиолетовый, синий, черный</li>
+						</ul>
+					</div>
+				</div>
+			</div><span class="section" id="faq"></span>
+			<div class="specs">
+				<div class="specs_in">
+					<div class="specs__top" id="ancorVideo">
+						<p>Регулярные измерения частоты сердечных сокращений: вы можете установить определенное время в приложении, автоматически открыть тест на частоту сердечных сокращений (начало будет встряхнуть), тест автоматически отключается через одну минуту, а затем сохраняет значение в браслете. Подключение телефона или компьютера в программном обеспечении может видеть соответствующее значение. Фиксированная частота сердечного ритма: компьютер или мобильный телефон могут установить тестовый интервал, например, каждые 2 минуты, 5 минут или полчаса, чтобы автоматически открыть тест на сердцебиение (начало вибрации). Вы можете просмотреть 14 дней тренировки в браслете, число шагов движения, дистанционное движение, потребление калориев</p>
+						<div class="specs__watch"><img alt="watch" src="files/smartwatch_dz_1/img/specs_watch.png"></div>
+					</div>
+					<div class="specs__bottom">
+						<div class="specs__images"><img align="left" alt="photo" src="files/smartwatch_dz_1/img/specs_img1.jpg"></div>
+						<div class="specs__items-wrapper">
+							<ul class="specs__items short">
+								<li class="specs__item">Модель:<br>
+								<span>H05S смарт-группы</span></li>
+								<li class="specs__item">Материал браслета:<br>
+								<span>резина</span></li>
+								<li class="specs__item">Тип экрана:<br>
+								<span>светодиодный</span></li>
+								<li class="specs__item">Тип циферблата:<br>
+								<span>Круглый/овальный</span></li>
+								<li class="specs__item">Размер:<br>
+								<span>247*18*10.5 мм</span></li>
+								<li class="specs__item">Дисплей:<br>
+								<span>LED Дисплей</span></li>
+								<li class="specs__item">Функции:<br>
+								<span>анализ сна, отображение времени/данных, трек калорий и расстояние, монитор сердечного ритма</span></li>
+								<li class="specs__item">Цвет:<br>
+								<span>фиолетовый, синий, черный</span></li>
+								<li class="specs__item">Вес:<br>
+								<span>20 г</span></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div><span class="section" id="delivery"></span>
+			<div class="our">
+				<div class="our_in">
+					<h3>почему покупатели и партнеры</h3>
+					<h2>выбирают нас?</h2>
+					<div class="russia">
+						<div class="our__delivery">
+							Доставка по СНГ до 7 рабочих дней в зависимости от региона
+						</div>
+					</div>
+					<div class="our__bottom">
+						<div class="our__price">
+							Лучшие цены среди стран СНГ и никакой предоплаты
+						</div>
+						<div class="our__support">
+							Гарантия 6 месяцев
+						</div>
+					</div>
+					<div class="our__girl"><img alt="girl" src="files/smartwatch_dz_1/img/girl.png"></div>
+				</div>
+			</div>
+			<div class="reviews">
+				<h2 class="title" id="ancorComments">отзывы наших покупателей</h2>
+				<div class="reviews_in">
+					<div class="row">
+						<div class="review__item">
+							<div class="review__img"><img class="photo" alt="review" src="files/smartwatch_dz_1/img/tip2.jpg" style="border-radius:0px; width:77px;"></div>
+							<div class="review__head">
+								<div class="review__name rewview__name--blue name5">
+									Валерий Н.
+								</div>
+							</div>
+							<p class="review__text">Добрый день! Покупал этот браслет-шагомер на этом сайте, так как я давно хотел купить и не было времени купить его. Доставили мне по почте за 8 рабочих дней, оператором огромное спасибо. Ношу с великим удовольствием и очень удобный интерфейс.</p>
+						</div>
+						<div class="review__item">
+							<div class="review__img"><img class="photo1" alt="review" src="files/smartwatch_dz_1/img/tip1.jpg" style="border-radius:0px; width:77px;"></div>
+							<div class="review__head">
+								<div class="review__name rewview__name--blue name8">
+									Владимир Костенюк
+								</div>
+							</div>
+							<p class="review__text">Хотел подарить сыну такой браслет-шагомер, он - футболист играет в местном клубе, во время тренировок он любит бегать и с помощью телефона запускает время. Теперь ему стало легче стильный и спортивный браслет и после тренировки он подключает к компьютеру и смотрит результаты тренировок.</p>
+						</div>
+						<div class="review__item">
+							<div class="review__img"><img class="photo2" alt="review" src="files/smartwatch_dz_1/img/tip3.jpg" style="border-radius:0px; width:77px;"></div>
+							<div class="review__head">
+								<div class="review__name rewview__name--blue name9">
+									Михаил Патрило
+								</div>
+							</div>
+							<p class="review__text">Я - любитель спорта и также он мой образ жизни. После работы я бегаю и порой не могу узнать сколько я пробежал, а также мой пульс и жизненные показатели во время бега. Подключать его легко с помощью USB к компьютеру и с помощью программы можно увидеть свои показатели.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="bottom">
+			<div class="header_in">
+				<div class="header_in">
+					<h2>стильные браслет-шагомер</h2>
+					<h1>SmartBand H5S</h1>
+					<div class="header__right">
+						<div class="form__out">
+							<div class="form" id="form2">
+								<div class="caption">
+									<h3>только 2 дня</h3>
+									<h4>-50%</h4>
+								</div>
+								<div class="frm" id="form5">
+									<div class="form-price">
+										<span class="price_land_s1">2990</span> <span class="price_land_curr">руб</span>
+									</div>
+									<div id="container9C45C2">
+										<form method="post" action="" class="orderformcdn">											
+											<input required="" type="text" name="name" placeholder="Ваше имя">
+											<input class="input-phone" required="" type="text" name="phone" placeholder="Мобильный телефон">
+											<div class="errField"></div>	
+											<button class="button--yellow">Купить</button>								
+															 <input name="comment" type="hidden" value="" />
+               <input class="product_id" name="product_id" type="hidden" value="4540" />  
+               <input name="result_url" type="hidden" value=""/> 
+               <input name="referrer" type="hidden" value="" />
+               <input name="order_url" type="hidden" value="" />
+               <input name="transaction_id" type="hidden" value="0" />
+               <input name="partner_id" type="hidden" value="0" /> 
+               <input name="link_id" type="hidden" value="0" />																		 </form>
+									</div>
+									<div class="form__bottom"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="hit">
+						<div class="hit-inner">
+							ТОП<br>
+							<span>продаж</span>
+						</div>
+					</div>
+					<div class="watch"></div>
+				</div>
+			</div>
+		</div>
+		<footer>
+			<img src="need_files/corp_img/1_black.png">
+			<p style="text-align: center"><a href="politics/politic.html" target="_blank">Политика конфиденциальности</a></p>
+		</footer>
+	</div>
+	<!-- JS -->
+
+	<!-- <script type="text/javascript" src="files/smartwatch_dz_1/js/script-1.js"></script> -->
+	<!-- itg-consult-head -->
+		<link href="css/custom-styless.min.css" type="text/css" rel="stylesheet">
+		<script src="js/custom-functionss.min.js" type="text/javascript"></script>
+	<!-- itg-consult-head -->
+	<!-- itg-consult-body -->
+		<div id="kmacb" class="kmacb__manager kmacb__manager-man3" style="display: block;">
+			<a href="" modal="kmacb-form">
+				<div class="kmacb__manager-circle"></div>
+				<div class="kmacb__manager-fill"></div>
+				<div class="kmacb__manager-border"></div>
+				<div class="kmacb__manager-img"></div>
+			</a>
+		</div>
+		<div id="kmacb-form" class="modal kmacb-form kmacb-form2" style="display: none;">
+			<div class="modal-block margin-t-b modal-left" style="margin-left: -230px;">
+				<div class="title">Понравилось это предложение?<div class="kmacb-form-rectangle"></div></div>
+				<div class="content">
+					<div class="padding">
+						<p>Мы расскажем Вам все об этом товаре, предложим наилучшие условия и ознакомим с подходящими акционными предложениями!</p>
+						<form method="post" action="">
+							<input type="text" name="name" value="" placeholder="Ваше имя" oldvalue="" required="">
+							<input type="text" name="phone" value="" placeholder="Ваш номер телефона" oldvalue="" required="">
+							<input type="submit" value="ПЕРЕЗВОНИТЬ МНЕ">
+							 <input name="comment" type="hidden" value="" />
+               <input class="product_id" name="product_id" type="hidden" value="4540" />  
+               <input name="result_url" type="hidden" value=""/> 
+               <input name="referrer" type="hidden" value="" />
+               <input name="order_url" type="hidden" value="" />
+               <input name="transaction_id" type="hidden" value="0" />
+               <input name="partner_id" type="hidden" value="0" /> 
+               <input name="link_id" type="hidden" value="0" />
+												</form>
+						<p class="kmacb-form-clock">Оператор перезвонит Вам через 15-30 минут</p>
+					</div>
+				</div>
+			</div>
+		</div>
+ 
+<style type="text/css">
+	.intl-tel-input {display: inline-block;color: black;} 
+	.intl-tel-input .country-list {position: absolute;}
+	.input-phone {text-align: left;}
+</style>
+<script src="jquery.maskedinput.min.js"></script>
+<script>
+   $(document).ready(function () {
+             $("input[name=phone]").mask("+7(000) 000-0000");
+        });
+</script>
+<!-- Yandex.Metrika counter --> <script type="text/javascript" > 
+function getUrlVars(){var vars = {};var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {vars[key] = value;});return vars;}var ymID=getUrlVars()["yk"];eval('(function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter'+ymID+' = new Ya.Metrika({ id:'+ymID+', clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true, trackHash:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks");'); 
+document.write('<noscript><div><img src="https://mc.yandex.ru/watch/'+ymID+'" style="position:absolute; left:-9999px;" alt="" /></div></noscript>') </script><!-- /Yandex.Metrika counter -->
+<img style="display:none" id="set_cookie" src="" />
+</body>
+<!-- Copied from https://mega-hit.org/smart-band/ by Cyotek WebCopy 1.3.0.405, 27 июня 2018 г., 10:25:26 -->
+</html>
